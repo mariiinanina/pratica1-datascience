@@ -1,0 +1,5 @@
+2026-10-30 11:08:00,787 - INFO - Requisicao HTTP realizada com sucesso.
+2026-10-30 11:08:19,913 - INFO - Categoria: Não identificada - Noticias: 8
+2026-10-30 11:08:30,741 - INFO - Tempo total de execucao: 31.36 segundos
+2026-10-30 11:08:30,741 - INFO - Total de noticias: 8
+2026-10-30 11:08:30,741 - INFO - Total de categorias: 0
